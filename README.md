@@ -11,3 +11,5 @@ This project aims to practice the following HTML concepts:
    - `Links`
    - `Images`
 3. Also to practice writing good commit messages using the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) style
+
+The project will contain a main page with a list of recipes that link to full details of each recipe.
