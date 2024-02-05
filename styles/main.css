@@ -1,0 +1,28 @@
+* {
+    border: 1px solid green;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(199, 241, 199);
+    text-align: justify;
+    padding: 20px;
+    margin: 0px;
+}
+
+a {
+    color: rgb(105, 202, 105);
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: green;
+}
+
+img {
+    border: 2px solid green;
+}
+
+
+
+
+
